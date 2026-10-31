@@ -2,7 +2,7 @@
 
 > Repositori persiapan Mini Hackathon Make It Fest 2026
 
-## 📁 Struktur Repositori
+## Struktur Repositori
 
 ```
 make-it-fest-2026/
@@ -21,7 +21,7 @@ make-it-fest-2026/
 └── resources/                  # Referensi dan materi belajar
 ```
 
-## 🚀 Cara Penggunaan
+## Cara Penggunaan
 
 1. Lihat ide proyek di `docs/01-project-ideas/` sesuai tema yang diundi
 2. Gunakan template di `templates/` untuk dokumentasi
@@ -30,7 +30,7 @@ make-it-fest-2026/
 5. Rancang UI/UX di `docs/04-ui-ux/`
 6. Ikuti panduan pengembangan di `docs/05-development-guide/`
 
-## 🎯 Tema Tersedia
+## Tema Tersedia
 
 | No | Tema |
 |----|------|
@@ -45,12 +45,3 @@ make-it-fest-2026/
 | 9 | Disabilitas |
 | 10 | Kesiapsiagaan Bencana |
 
-## 👥 Tim
-
-- Anggota 1
-- Anggota 2
-- Anggota 3
-
----
-
-> **Note:** Tema proyek akan ditentukan melalui undian. Setelah tema diundi, fokus pengerjaan akan diarahkan ke file tema yang bersangkutan.
